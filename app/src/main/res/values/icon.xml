@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="single">&#xe6af;</string> <!--单曲循环-->
+    <string name="random">&#xe62a;</string><!--随机播放-->
+    <string name="order">&#xe626;</string><!--顺序循环-->
+    <string name="order_play">&#xe6ea;</string><!--顺序播放-->
+    <string name="play">&#xe600;</string><!--播放-->
+    <string name="pause">&#xe61f;</string><!--暂停-->
+    <string name="play_icon">&#xe623;</string><!--播放-->
+    <string name="multiple">&#xe61a;</string><!--多选-->
+    <string name="has_checked">&#xe601;</string><!--已选中-->
+
+    <string name="previous_icon">&#xe602;</string><!--上一曲-->
+    <string name="next_icon">&#xe658;</string><!--下一曲-->
+    <string name="playing">&#xe70f;</string><!--播放-->
+    <string name="playing2">&#xe66b;</string><!--播放-->
+    <string name="pausing">&#xe70f;</string><!--暂停-->
+    <string name="play_module">&#xe64a;</string><!--播放模式-->
+    <string name="play_list">&#xe6c7;</string><!--播放列表-->
+</resources>
